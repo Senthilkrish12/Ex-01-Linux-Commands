@@ -1,7 +1,7 @@
 # Ex-01-Linux-Commands
 ```
-NAME: SANTHOSH S
-REG.NO: 212224100052
+NAME: Senthil Raj G
+REG.NO: 212224100054
 ```
 
 ## Aim:
